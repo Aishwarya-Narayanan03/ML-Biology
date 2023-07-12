@@ -1,4 +1,4 @@
-# Machine Learning and complex biological data
+# Machine learning and complex biological data
 The revolution of Biological techniques and demands for new data mining methods
 
 ## Abstract:
